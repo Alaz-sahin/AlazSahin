@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TextureMapping.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  3D-Template.cpp
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\camera.h(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\camera.h(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\camera.h(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\camera.h(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\camera.h(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\md2.h(145): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(18): warning C4005: 'NEAR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(151): note: see previous definition of 'NEAR'
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(19): warning C4005: 'FAR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(150): note: see previous definition of 'FAR'
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(94): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(113): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(128): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(148): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(149): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(150): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(151): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(167): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(168): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(169): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(170): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(186): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(187): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(188): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(189): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(205): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(206): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(207): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(208): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(305): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(495): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(496): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(541): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\casper\desktop\lab08-texturemapping\texturemapping\texturemapping\3d-template.cpp(541): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  texture.cpp
+  md2.cpp
+  TextureMapping.vcxproj -> C:\Users\CASPER\Desktop\Lab08-TextureMapping\TextureMapping\Debug\ALAZ_SAHIN_MT2.exe
+  TextureMapping.vcxproj -> C:\Users\CASPER\Desktop\Lab08-TextureMapping\TextureMapping\Debug\ALAZ_SAHIN_MT2.pdb (Full PDB)

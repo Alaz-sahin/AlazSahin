@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALAZ_SAHIN_MT2", "TextureMapping\TextureMapping.vcxproj", "{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "MD2", "..\..\Lab10-Animated-3DModel-Blend\02-Animated-3DModel\MD2\Debug\MD2.exe", "{4D9A62FE-472A-4AFC-9CB4-C9E6539C7F3E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\CASPER\Desktop\Lab10-Animated-3DModel-Blend\02-Animated-3DModel\MD2\Debug\MD2.exe
+		RemoteMachine = NIRVANA
+		StartingDirectory = C:\Users\CASPER\Desktop\Lab10-Animated-3DModel-Blend\02-Animated-3DModel\MD2\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Debug|x64.ActiveCfg = Debug|x64
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Debug|x64.Build.0 = Debug|x64
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Debug|x86.Build.0 = Debug|Win32
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Release|x64.ActiveCfg = Release|x64
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Release|x64.Build.0 = Release|x64
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Release|x86.ActiveCfg = Release|Win32
+		{ED4E471E-7CD3-43C2-97B8-30AED998BDD8}.Release|x86.Build.0 = Release|Win32
+		{4D9A62FE-472A-4AFC-9CB4-C9E6539C7F3E}.Debug|x64.ActiveCfg = Release|x86
+		{4D9A62FE-472A-4AFC-9CB4-C9E6539C7F3E}.Debug|x86.ActiveCfg = Release|x86
+		{4D9A62FE-472A-4AFC-9CB4-C9E6539C7F3E}.Release|x64.ActiveCfg = Release|x86
+		{4D9A62FE-472A-4AFC-9CB4-C9E6539C7F3E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
